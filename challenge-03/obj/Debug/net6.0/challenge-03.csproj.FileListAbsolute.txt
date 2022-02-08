@@ -1,0 +1,15 @@
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\dio-challenges\challenge-03\bin\Debug\net6.0\challenge-03.exe
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\dio-challenges\challenge-03\bin\Debug\net6.0\challenge-03.deps.json
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\dio-challenges\challenge-03\bin\Debug\net6.0\challenge-03.runtimeconfig.json
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\dio-challenges\challenge-03\bin\Debug\net6.0\challenge-03.dll
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\dio-challenges\challenge-03\bin\Debug\net6.0\ref\challenge-03.dll
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\dio-challenges\challenge-03\bin\Debug\net6.0\challenge-03.pdb
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\dio-challenges\challenge-03\obj\Debug\net6.0\challenge-03.csproj.AssemblyReference.cache
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\dio-challenges\challenge-03\obj\Debug\net6.0\challenge-03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\dio-challenges\challenge-03\obj\Debug\net6.0\challenge-03.AssemblyInfoInputs.cache
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\dio-challenges\challenge-03\obj\Debug\net6.0\challenge-03.AssemblyInfo.cs
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\dio-challenges\challenge-03\obj\Debug\net6.0\challenge-03.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\dio-challenges\challenge-03\obj\Debug\net6.0\challenge-03.dll
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\dio-challenges\challenge-03\obj\Debug\net6.0\ref\challenge-03.dll
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\dio-challenges\challenge-03\obj\Debug\net6.0\challenge-03.pdb
+C:\Users\gabriel.souza\Desktop\Dio-Dotnet\dio-challenges\challenge-03\obj\Debug\net6.0\challenge-03.genruntimeconfig.cache
